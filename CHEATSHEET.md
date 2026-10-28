@@ -1,8 +1,10 @@
 # Connect a Web App with Aurora — Cheat Sheet
 
+> 📚 **Part 2 of 2** in my Aurora projects · ← Previous: [Aurora Database with EC2](https://github.com/jasahorro/Aurora-Database-with-EC2/blob/main/CHEATSHEET.md)
+
 Lesson notes for reviewing later. The project write-up is in [README.md](README.md).
 
-Follows on from [Aurora Database with EC2](https://github.com/jasahorro/Aurora-Database-with-EC2), which covers the database setup (instance classes, clusters, security groups) in more depth.
+Part 1 covers the database setup (instance classes, clusters, security groups) in more depth.
 
 ## Contents
 
